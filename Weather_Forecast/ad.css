@@ -1,0 +1,140 @@
+.submit{
+    text-align: center;
+    justify-content: center;
+    position:relative;
+    left: 650px;
+    top: 100px;
+    font-size: 32px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    color: black;
+    cursor: pointer;
+    
+    border-color: none;
+    outline: none;
+    overflow: hidden;
+    border-radius: 9px;
+    position: relative;
+    opacity: 50%;
+    background-color: linear-gradient(right, rgba(gray,red));
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+.submit:hover{
+    box-shadow: inset 100px 0 0 0 gray;
+
+    transition: 2s;
+    opacity: 100%;
+    box-shadow: inset 100px 0 0 0 gray;
+    background-color: linear-gradient(right, rgba(gray,red));
+}
+
+
+
+.city{
+    position: relative;
+    top: 100px;
+    left: 550px;
+    height: 50px;
+    width: 382px;
+    background: #e7e7e7;
+    font-family: "Helvetica Neue",sans-serif;
+    border: none;
+    border-radius: 2px;
+     
+
+}
+.display{
+    position: relative; 
+    left: 550px;
+    top: 200px;
+    
+
+    font-family: "Helvetica Neue",sans-serif;
+}
+
+
+body{
+    background: url(pexels-pixabay-76969.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+
+.Top{
+
+    position: relative;
+    color: white;
+
+    top: -63px;
+    font-size: 48px;
+}
+
+
+.navbar-text{
+    color: white;
+}
+
+
+
+.bi bi-cloud-drizzle-fill{
+    filter: invert(1);
+
+}
+
+
+#weather{
+    position: relative;
+    left: 550px;
+
+    top: 150px;
+
+    font-size: 50px;
+    
+}
+
+
+.name{
+    animation: fadeIn linear 7s;
+  -webkit-animation: fadeIn linear 7s;
+  -moz-animation: fadeIn linear 7s;
+  -o-animation: fadeIn linear 7s;
+  -ms-animation: fadeIn linear 7s;
+
+
+}
+
+
+.description{
+    animation: fadeIn linear 7s;
+  -webkit-animation: fadeIn linear 7s;
+  -moz-animation: fadeIn linear 7s;
+  -o-animation: fadeIn linear 7s;
+  -ms-animation: fadeIn linear 7s;
+}
+
+
+
+.test{
+    animation: fadeIn linear 7s;
+  -webkit-animation: fadeIn linear 7s;
+  -moz-animation: fadeIn linear 7s;
+  -o-animation: fadeIn linear 7s;
+  -ms-animation: fadeIn linear 7s;
+}
+
+
+
+
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+
+
+
+#address{
+    color: white;
+}
+                            
