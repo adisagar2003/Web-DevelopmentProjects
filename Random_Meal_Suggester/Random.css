@@ -1,0 +1,23 @@
+#Button{
+    position: relative;
+    left: 440px;
+    top: 220px;
+    width: 50%;
+    height: 50%;
+    font-size: 50px;
+}
+
+
+.card{
+    left:650px;
+    top: 330px;
+    width: 100%;    
+}
+
+
+
+body{
+    background: url(food.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
