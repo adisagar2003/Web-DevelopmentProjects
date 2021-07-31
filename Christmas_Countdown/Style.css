@@ -1,0 +1,46 @@
+.ratio ratio-1x1{
+    
+    border-color: black;
+    border: 10px;
+    width: 50%
+
+}
+
+#no{
+    position: relative;
+    left: 550px;
+    top: -59px;
+
+}
+
+#seconds{
+
+    position: relative;
+    left: 550px;
+    top: -54px;
+    width: 25%;
+    
+
+
+}
+
+
+#date{
+
+    width: 50%;
+    opacity: 100%;
+    background-color: black;
+    
+}
+
+body{
+    background-image: url(snow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    
+}
+.container-fluid{
+    color: white;    
+}
