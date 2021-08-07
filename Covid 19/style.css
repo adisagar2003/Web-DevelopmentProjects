@@ -1,0 +1,19 @@
+#Heading{
+    position: relative;
+    left: 440px;
+}
+
+
+
+ .btn-lg {
+    padding: 2.5rem 25rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+}
+
+
+#Refresh{
+    padding: 2.5rem 29rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+}
